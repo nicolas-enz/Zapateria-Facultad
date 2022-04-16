@@ -1,0 +1,47 @@
+﻿.contenedor {
+    width: 100%;
+    height: 800px;
+}
+#top {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+body {
+    background-color: #8a97ab;
+}
+
+a {
+    background-color: #8a97ab;
+}
+
+#DataList1 {
+    background-color: #8a97ab;
+}
+
+ItemTemplate {
+    background-color: #8a97ab;
+    padding: 10px;
+}
+
+div {
+    color: black;
+}
+
+table {
+    background-color: #8a97ab;
+    border: solid 2px black;
+}
+
+tbody {
+    background-color: #8a97ab;
+}
+
+tr {
+    background-color: #8a97ab;
+}
+
+#ListView1_paginado {
+    background-color: #8b99ac;
+    text-align: center;
+}

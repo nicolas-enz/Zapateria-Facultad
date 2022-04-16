@@ -1,0 +1,26 @@
+﻿.texto{
+    float:left;
+    padding:20px;
+}
+
+.txt{
+    float: left;
+    padding:10px;
+    width:80%;
+}
+
+.btn{
+    float:left;
+    position:relative;
+    top:50px;
+    left:200px;
+    clear:left;
+}
+
+.btnProd {
+    float: left;
+    clear:left;
+    position: relative;
+    top: 50px;
+    left: 200px;
+}

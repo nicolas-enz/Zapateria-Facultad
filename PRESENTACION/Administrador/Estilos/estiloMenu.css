@@ -1,0 +1,15 @@
+﻿.links{
+    padding:20px;
+    float:left;
+    position:relative;
+    top:5%;
+    left:33%;
+}
+
+.gridview{
+    position:relative;
+    top:150px;
+    left:33%;
+    width:50%;
+    height:50%;
+}
